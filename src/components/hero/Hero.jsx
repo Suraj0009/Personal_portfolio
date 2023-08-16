@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Resume.pdf";
+import resumePDF from "../../assets/Suraj Rawat.pdf";
 
 
 const Hero = () => {
@@ -30,7 +30,8 @@ const Hero = () => {
                 2000,
                 "Freelancer",
                 2000,
-                "",
+                "Bodybuilder",
+                2000,
               ]}
               speed={30}
               wrapper="h2"
@@ -105,7 +106,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='https://i.postimg.cc/pTn61Gr1/Untitled-design222-modified.png'
+              src='https://i.postimg.cc/3xc08294/Whats-App-Image-2023-08-15-at-11-26-28-AM-fotor-bg-remover-20230815113615-modified.png'
               // src={mine}
               alt="mine"
             />
